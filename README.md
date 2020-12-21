@@ -13,7 +13,6 @@
    - (PUT) http://localhost:4001/
    - (PATCH) http://localhost:4001/
 
-- Don't forget to add a cookie: `whoisit = me`
 
 ### Screenshots of results:
 
